@@ -15,7 +15,7 @@ I'm a Full-Stack Web Developer passionate about building interactive, user-frien
     * MySQL -> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🚀 What I'm Up To
-   * 🔭 Currently mastering **React.js** and building dynamic front-end projects.
+   * 🔭 Currently mastering **React.js**, **TypeScript** and building dynamic front-end projects.
    * 🐛 Spot a bug or a security vulnerability in my code? Please open an issue or let me know! I am eager to learn, fix my mistakes, and understand complex concepts with your help.
 
 ### 🌐 Connect with Me
